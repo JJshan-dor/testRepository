@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">我的音乐</string>
+    <string name="music_text">音乐</string>
+    <string name="user_n">用户名</string>
+</resources>
